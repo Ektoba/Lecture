@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealpratice\\lecture\\lecture\\source\\lecture\\lecture.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealpratice\\lecture\\lecture\\intermediate\\build\\win64\\x64\\lectureeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unrealpratice\\lecture\\lecture\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lecture\\definitions.lecture.h",
+            "c:\\unrealpratice\\lecture\\lecture\\source\\lecture\\lecture.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
